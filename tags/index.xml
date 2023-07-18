@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>Tags - 标签 - 我的 Hugo FixIt 网站</title>
+    <title>Tags - 标签 - L1Rain&#39;s Blog</title>
     <link>https://l1rain.github.io/tags/</link>
-    <description>Tags - 标签 - 我的 Hugo FixIt 网站</description>
+    <description>Tags - 标签 - L1Rain&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 09 Jun 2023 00:03:56 &#43;0800</lastBuildDate><atom:link href="https://l1rain.github.io/tags/" rel="self" type="application/rss+xml" /><item>
   <title>draft</title>
   <link>https://l1rain.github.io/tags/draft/</link>
